@@ -1,0 +1,47 @@
+# Compiled Object files
+*.sln.cache
+*.pdb
+*.dll
+*.exe
+
+# NuGet Packages Directory
+**/bin/
+**/obj/
+
+# User-specific files
+*.user
+*.userprefs
+*.suo
+*.ide
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Xamarin.Android specific
+*.apk
+*.ap_
+
+# Xamarin.iOS specific
+*.ipa
+*.app
+*.dSYM.zip
+*.dSYM
+
+# .NET Core
+*.dotnet-test.lock.json
+*.dotnet-compile.lock.json
+*.config
+
+# MacOS
+*.DS_Store
+
+# Visual Studio Code
+.vscode/
